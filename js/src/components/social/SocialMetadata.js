@@ -17,6 +17,7 @@ const SocialMetadata = () => {
 			<Collapsible
 				hasPadding={ true }
 				hasSeparator={ true }
+				initialIsOpen={ true }
 				title="Facebook"
 			>
 				<FacebookContainer />
@@ -24,6 +25,7 @@ const SocialMetadata = () => {
 			<Collapsible
 				hasPadding={ true }
 				hasSeparator={ true }
+				initialIsOpen={ true }
 				title="Twitter"
 			>
 				<TwitterContainer />
